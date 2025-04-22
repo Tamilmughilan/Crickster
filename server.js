@@ -3,6 +3,7 @@ const path = require('path');
 const cron = require('node-cron');
 const fs = require('fs');
 const { exec } = require('child_process');
+const { updateLiveScores } = require('./scripts/liveScoreScraper');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -54,42 +55,57 @@ if (process.env.NODE_ENV === 'production') {
 
 // API endpoints
 app.get('/api/live-scores', (req, res) => {
-  try {
-    const liveScoresPath = path.join(__dirname, 'public', 'live_scores.json');
-    
-    // Check if live scores file exists
-    if (fs.existsSync(liveScoresPath)) {
-      const liveScores = JSON.parse(fs.readFileSync(liveScoresPath, 'utf8'));
-      res.json(liveScores);
-    } else {
-      // Fallback to dummy data
-      const liveScoresData = {
-        matches: [
-          {
-            title: "India vs Australia - 1st ODI",
-            scores: ["IND: 325/8 (50)", "AUS: 280 (48.3)"],
-            status: "India won by 45 runs",
-            url: "https://www.cricbuzz.com/match/123456",
-            source: "cricbuzz"
-          },
-          {
-            title: "England vs New Zealand - 2nd T20",
-            scores: ["ENG: 189/5 (20)", "NZ: 175/9 (20)"],
-            status: "England won by 14 runs",
-            url: "https://www.espncricinfo.com/match/789012",
-            source: "espn"
-          }
-        ],
-        lastUpdated: Math.floor(Date.now() / 1000)
-      };
+    try {
+      const liveScoresPath = path.join(__dirname, 'public', 'live_scores.json');
       
-      res.json(liveScoresData);
+      // Check if live scores file exists and is not too old (< 5 minutes)
+      if (fs.existsSync(liveScoresPath)) {
+        const liveScores = JSON.parse(fs.readFileSync(liveScoresPath, 'utf8'));
+        const now = Math.floor(Date.now() / 1000);
+        
+        // If file exists and is fresh (less than 5 minutes old)
+        if (liveScores.lastUpdated && (now - liveScores.lastUpdated) < 300) {
+          return res.json(liveScores);
+        }
+      }
+      
+      // If file doesn't exist or is too old, update it first
+      updateLiveScores()
+        .then(liveScores => {
+          res.json(liveScores);
+        })
+        .catch(error => {
+          console.error('Error updating live scores:', error);
+          
+          // Fallback to dummy data if update fails
+          const liveScoresData = {
+            matches: [
+              {
+                title: "India vs Australia - 1st ODI",
+                scores: ["IND: 325/8 (50)", "AUS: 280 (48.3)"],
+                status: "India won by 45 runs",
+                url: "https://www.cricbuzz.com/match/123456",
+                source: "cricbuzz"
+              },
+              {
+                title: "England vs New Zealand - 2nd T20",
+                scores: ["ENG: 189/5 (20)", "NZ: 175/9 (20)"],
+                status: "England won by 14 runs",
+                url: "https://www.espncricinfo.com/match/789012",
+                source: "espn"
+              }
+            ],
+            lastUpdated: Math.floor(Date.now() / 1000)
+          };
+          
+          res.json(liveScoresData);
+        });
+        
+    } catch (error) {
+      console.error('Error serving live scores:', error);
+      res.status(500).json({ error: 'Failed to retrieve live scores' });
     }
-  } catch (error) {
-    console.error('Error serving live scores:', error);
-    res.status(500).json({ error: 'Failed to retrieve live scores' });
-  }
-});
+  });
 
 // Endpoint to manually trigger data updates
 app.get('/api/trigger-updates', async (req, res) => {
@@ -150,3 +166,13 @@ app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
   console.log(`Open http://localhost:${PORT} in your browser`);
 });
+
+// In your server.js, add this with your other cron jobs
+cron.schedule('*/5 * * * *', async () => {
+    console.log('Running scheduled live score update...');
+    try {
+      await updateLiveScores();
+    } catch (error) {
+      console.error('Error updating live scores:', error);
+    }
+  });
