@@ -7,5 +7,12 @@ services:
     envVars:
       - key: NODE_ENV
         value: production
-    healthCheckPath: /api/live-scores
+    healthCheckPath: /
     autoDeploy: true
+    buildFilter:
+      paths:
+      - src/**
+      - public/**
+      - scripts/**
+      - package.json
+      - server.js

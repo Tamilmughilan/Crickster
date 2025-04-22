@@ -60,5 +60,9 @@ async function updateTeamStats() {
   }
 }
 
-// Run the update function
-updateTeamStats();
+// Run the update function if called directly
+if (require.main === module) {
+  updateTeamStats();
+}
+
+module.exports = updateTeamStats;
