@@ -17,7 +17,6 @@
     "recharts": "^2.15.2",
     "three": "^0.175.0"
   },
-  "proxy": "http://localhost:5001",
   "scripts": {
     "update-cricket-stats": "node scripts/updateCricketStats.js",
     "update-team-stats": "node scripts/update_team_stats.js",
@@ -25,7 +24,8 @@
     "update-insights": "node scripts/updateInsights.js",
     "update-cricket-news": "node scripts/updateCricketNews.js",
     "start": "node server.js",
-    "build": "npm run update-cricket-stats && npm run update-team-stats && npm run run-live-score-scraper && npm run update-insights && react-scripts build",
+    "build": "react-scripts build",
+    "prebuild": "npm run update-cricket-stats && npm run update-team-stats && npm run run-live-score-scraper && npm run update-insights",
     "dev": "npm run update-cricket-stats && npm run update-team-stats && npm run run-live-score-scraper && npm run update-insights && react-scripts start",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
