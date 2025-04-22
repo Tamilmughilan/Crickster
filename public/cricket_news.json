@@ -1,0 +1,223 @@
+{
+    "storyList": [
+        {
+            "story": {
+                "id": 134134,
+                "hline": "Mehidy urges Bangladesh to take inspiration from West Indies win",
+                "intro": "The allrounder feels a couple of good partnerships will be enough to put runs on the board to fight back and emerge victorious against Zimbabwe in the first Test",
+                "pubTime": "1745245943003",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 670901,
+                "seoHeadline": "Mehidy urges Bangladesh to take inspiration from West Indies win",
+                "context": "Zimbabwe tour of Bangladesh, 2025",
+                "coverImage": {
+                    "id": "670901",
+                    "caption": "Mehidy Hasan Miraz bagged a five-wicket haul on Day 2",
+                    "source": "BCB"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "ad": {
+                "name": "native_news_index",
+                "layout": "native_large",
+                "position": 1
+            }
+        },
+        {
+            "story": {
+                "id": 134133,
+                "hline": "LSG, DC in a mid-season fight to keep up form",
+                "intro": "Both teams are in the top five at this stage, but will be in a tight race to hold on to those positions",
+                "pubTime": "1745241823813",
+                "source": "Cricbuzz",
+                "storyType": "Previews",
+                "imageId": 670796,
+                "seoHeadline": "LSG, DC in a mid-season fight to keep up form",
+                "context": "IPL 2025",
+                "coverImage": {
+                    "id": "670796",
+                    "caption": "Ashutosh's blitz highlighted the previous encounter between these two teams",
+                    "source": "Sportzpics"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134132,
+                "hline": "Bangladesh make hopeful start after conceding lead",
+                "intro": "Zimbabwe took a lead of 82 runs in the first innings before Bangladesh wiped out 57 of those by stumps",
+                "pubTime": "1745240193668",
+                "source": "Cricbuzz",
+                "storyType": "Reports",
+                "imageId": 670793,
+                "seoHeadline": "Bangladesh make hopeful start after conceding lead",
+                "context": "Zimbabwe tour of Bangladesh, 2025",
+                "coverImage": {
+                    "id": "670793",
+                    "caption": "Mehidy Hasan Miraz completed a five-fer for Bangladesh",
+                    "source": "AFP"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134130,
+                "hline": "Injured Sanju Samson to miss RCB clash",
+                "intro": "The Rajasthan Royals skipper had also missed their previous game against Lucknow Super Giants",
+                "pubTime": "1745240158698",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 670788,
+                "seoHeadline": "Injured Sanju Samson set to miss clash against RCB",
+                "context": "IPL 2025",
+                "coverImage": {
+                    "id": "670788",
+                    "caption": "Sanju Samson missed the previous encounter due to an abdominal injury",
+                    "source": "Sportzpics"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "ad": {
+                "name": "native_news_index_2",
+                "layout": "native_large",
+                "position": 5
+            }
+        },
+        {
+            "story": {
+                "id": 134129,
+                "hline": "How Abhishek Nayar influenced Rohit's resurgence",
+                "intro": "Nayar, who was recently let go from the Indian team, has been credited by several players like Shreyas Iyer and KL Rahul recently for having a positive impact on their game",
+                "pubTime": "1745228071395",
+                "source": "Cricbuzz",
+                "storyType": "Features",
+                "imageId": 670755,
+                "seoHeadline": "How Abhishek Nayar influenced Rohit Sharma's resurgence",
+                "context": "IPL 2024",
+                "coverImage": {
+                    "id": "670755",
+                    "caption": "Rohit Sharma and Abhishek Nayar have been collaborating for a while now, and their partnership has continued into the ongoing IPL season",
+                    "source": "BCCI/IPL"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134128,
+                "hline": "Pant promoted, Iyer and Kishan return as BCCI announce central contracts",
+                "intro": "Nitish Reddy, Abhishek Sharma and Harshit Rana are among those who secured their maiden contracts ",
+                "pubTime": "1745216465204",
+                "source": "Cricbuzz",
+                "storyType": "News",
+                "imageId": 670754,
+                "seoHeadline": "Pant promoted, Iyer and Kishan return as BCCI announce central contracts",
+                "context": "BCCI contracts ",
+                "coverImage": {
+                    "id": "670754",
+                    "caption": "Ishan and Shreyas were left out of the central contracts last year",
+                    "source": "BCCI"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134127,
+                "hline": "Shadab leads Islamabad United's victory march",
+                "intro": "The skipper top-scored with 47 and picked a brace as the visitors registered their fourth successive win in PSL 2025",
+                "pubTime": "1745209078076",
+                "source": "Cricbuzz",
+                "storyType": "Reports",
+                "imageId": 670751,
+                "seoHeadline": "Shadab leads Islamabad United's victory march",
+                "context": "PSL 2025",
+                "coverImage": {
+                    "id": "670751",
+                    "caption": "Shadab put in an all-round performance",
+                    "source": "PCB"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134126,
+                "hline": "Monank Patel's swashbuckling ton obliterates Bahamas",
+                "intro": "Patel notched up his maiden T20I ton as USA won by 149 runs",
+                "pubTime": "1745208486015",
+                "source": "Cricbuzz",
+                "storyType": "Reports",
+                "imageId": 495784,
+                "seoHeadline": "Monank Patel's swashbuckling ton obliterates Bahamas",
+                "context": "The North American T20 Cup, 2025 ",
+                "coverImage": {
+                    "id": "495784",
+                    "caption": "Patel notched up his maiden T20I ton [File picture]",
+                    "source": "AFP"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134125,
+                "hline": "A child of the IPL era, Ayush Mhatre embraces his big moment",
+                "intro": "The 17-year-old scored a brisk 32 on IPL debut for CSK, showing poise, fearlessness and a glimpse of Mumbai's famed batting genes",
+                "pubTime": "1745200514142",
+                "source": "Cricbuzz",
+                "storyType": "Match Features",
+                "imageId": 670749,
+                "seoHeadline": "A child of the IPL era, Ayush Mhatre embraces his big moment",
+                "context": "IPL 2025",
+                "coverImage": {
+                    "id": "670749",
+                    "caption": "The 17-year-old scored a brisk 32 on IPL debut for CSK",
+                    "source": "BCCI/IPL"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        },
+        {
+            "story": {
+                "id": 134124,
+                "hline": "Data Shorts: Dube's slow starts compound CSK's struggles",
+                "intro": "The hard-hitting southpaw could manage just three singles off his first 10 balls on Sunday, and his strike-rate crossed 100 on the 20th ball he faced",
+                "pubTime": "1745199907136",
+                "source": "Cricbuzz",
+                "storyType": "Statistics & Analysis",
+                "imageId": 670748,
+                "seoHeadline": "Data Shorts: Dube's slow starts compound CSK's struggles",
+                "context": "IPL 2025",
+                "coverImage": {
+                    "id": "670748",
+                    "caption": "Shivam Dube took 20 balls, in his innings against Mumbai Indians, to touch the run-a-ball mark",
+                    "source": "BCCI/IPL"
+                },
+                "entitlements": {},
+                "adsType": {}
+            }
+        }
+    ],
+    "lastUpdatedTime": "1745257056675",
+    "appIndex": {
+        "seoTitle": "Latest and breaking Cricket News - Cricbuzz | Cricbuzz.com",
+        "webURL": "http://www.cricbuzz.com/cricket-news"
+    }
+}

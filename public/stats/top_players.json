@@ -1,0 +1,3554 @@
+{
+  "topPlayers": [
+    {
+      "id": "JE Root",
+      "name": "JE Root",
+      "team": "England",
+      "matches": 4,
+      "runs": 564,
+      "average": 141.0,
+      "strikeRate": 705.0,
+      "fours": 69,
+      "sixes": 0,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "MR Marsh",
+      "name": "MR Marsh",
+      "team": "Lucknow Super Giants",
+      "matches": 12,
+      "runs": 459,
+      "average": 38.25,
+      "strikeRate": 191.25,
+      "fours": 45,
+      "sixes": 19,
+      "shots": [
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "KL Rahul",
+      "name": "KL Rahul",
+      "team": "Delhi Capitals",
+      "matches": 6,
+      "runs": 485,
+      "average": 80.83,
+      "strikeRate": 404.17,
+      "fours": 52,
+      "sixes": 11,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "Babar Azam",
+      "name": "Babar Azam",
+      "team": "Pakistan",
+      "matches": 7,
+      "runs": 412,
+      "average": 58.86,
+      "strikeRate": 294.29,
+      "fours": 45,
+      "sixes": 7,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "RG Sharma",
+      "name": "RG Sharma",
+      "team": "Mumbai Indians",
+      "matches": 5,
+      "runs": 385,
+      "average": 77.0,
+      "strikeRate": 385.0,
+      "fours": 44,
+      "sixes": 5,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "L Lee",
+      "name": "L Lee",
+      "team": "South Africa",
+      "matches": 6,
+      "runs": 301,
+      "average": 50.17,
+      "strikeRate": 250.83,
+      "fours": 41,
+      "sixes": 2,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "Mohammad Rizwan",
+      "name": "Mohammad Rizwan",
+      "team": "Pakistan",
+      "matches": 7,
+      "runs": 353,
+      "average": 50.43,
+      "strikeRate": 252.14,
+      "fours": 32,
+      "sixes": 9,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "SA Yadav",
+      "name": "SA Yadav",
+      "team": "Mumbai Indians",
+      "matches": 6,
+      "runs": 269,
+      "average": 44.83,
+      "strikeRate": 224.17,
+      "fours": 37,
+      "sixes": 3,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "N Pooran",
+      "name": "N Pooran",
+      "team": "Lucknow Super Giants",
+      "matches": 9,
+      "runs": 283,
+      "average": 31.44,
+      "strikeRate": 157.22,
+      "fours": 16,
+      "sixes": 23,
+      "shots": [
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "Q de Kock",
+      "name": "Q de Kock",
+      "team": "Kolkata Knight Riders",
+      "matches": 7,
+      "runs": 277,
+      "average": 39.57,
+      "strikeRate": 197.86,
+      "fours": 29,
+      "sixes": 9,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "JN Malan",
+      "name": "JN Malan",
+      "team": "South Africa",
+      "matches": 6,
+      "runs": 343,
+      "average": 57.17,
+      "strikeRate": 285.83,
+      "fours": 30,
+      "sixes": 7,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "Shakib Al Hasan",
+      "name": "Shakib Al Hasan",
+      "team": "Bangladesh",
+      "matches": 14,
+      "runs": 341,
+      "average": 24.36,
+      "strikeRate": 121.79,
+      "fours": 32,
+      "sixes": 3,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "AK Markram",
+      "name": "AK Markram",
+      "team": "Lucknow Super Giants",
+      "matches": 9,
+      "runs": 335,
+      "average": 37.22,
+      "strikeRate": 186.11,
+      "fours": 19,
+      "sixes": 15,
+      "shots": [
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "WIA Fernando",
+      "name": "WIA Fernando",
+      "team": "Sri Lanka",
+      "matches": 10,
+      "runs": 355,
+      "average": 35.5,
+      "strikeRate": 177.5,
+      "fours": 29,
+      "sixes": 5,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "six",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    },
+    {
+      "id": "CA Pujara",
+      "name": "CA Pujara",
+      "team": "India",
+      "matches": 4,
+      "runs": 227,
+      "average": 56.75,
+      "strikeRate": 283.75,
+      "fours": 33,
+      "sixes": 0,
+      "shots": [
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        },
+        {
+          "type": "four",
+          "angle": null,
+          "zone": null
+        }
+      ]
+    }
+  ]
+}

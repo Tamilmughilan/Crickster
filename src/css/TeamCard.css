@@ -1,0 +1,155 @@
+.team-card {
+    background: rgba(22, 15, 32, 0.85);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 10px 25px rgba(93, 63, 152, 0.2);
+    transition: all 0.4s cubic-bezier(0.165, 0.84, 0.44, 1);
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    border: 1px solid rgba(93, 63, 152, 0.25);
+    backdrop-filter: blur(10px);
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .team-card::before {
+    content: '';
+    position: absolute;
+    width: 150%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(127, 73, 203, 0.1), transparent);
+    top: 0;
+    left: -100%;
+    transform: skewX(-15deg);
+    transition: all 0.75s ease;
+  }
+  
+  .team-card:hover {
+    transform: translateY(-8px) scale(1.02);
+    box-shadow: 0 20px 30px rgba(93, 63, 152, 0.3);
+    border-color: rgba(127, 73, 203, 0.5);
+  }
+  
+  .team-card:hover::before {
+    left: 100%;
+  }
+  
+  .team-flag {
+    font-size: 3rem;
+    text-align: center;
+    margin-bottom: 20px;
+    filter: drop-shadow(0 5px 15px rgba(93, 63, 152, 0.5));
+    transition: all 0.4s ease;
+    transform-style: preserve-3d;
+  }
+  
+  .team-card:hover .team-flag {
+    transform: rotateY(15deg) scale(1.1);
+  }
+  
+  .team-name {
+    text-align: center;
+    margin-bottom: 18px;
+    color: #d8c9ff;
+    font-size: 1.3rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    position: relative;
+    padding-bottom: 10px;
+  }
+  
+  .team-name::after {
+    content: '';
+    position: absolute;
+    width: 40px;
+    height: 3px;
+    background: linear-gradient(90deg, #7f49cb, #9f7aea);
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    border-radius: 10px;
+    transition: width 0.3s ease;
+  }
+  
+  .team-card:hover .team-name::after {
+    width: 80px;
+  }
+  
+  .team-stats {
+    flex: 1;
+  }
+  
+  .team-stats p {
+    margin: 10px 0;
+    color: #a592d0;
+    text-align: center;
+    transition: all 0.3s ease;
+    padding: 6px 0;
+  }
+  
+  .team-card:hover .team-stats p {
+    color: #d8c9ff;
+  }
+  
+  .team-strengths {
+    margin-top: 20px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(93, 63, 152, 0.3);
+    position: relative;
+  }
+  
+  .strengths-title {
+    font-weight: bold;
+    color: #9f7aea;
+    margin-bottom: 10px;
+    letter-spacing: 0.5px;
+  }
+  
+  .team-strengths ul {
+    padding-left: 20px;
+    margin: 8px 0;
+  }
+  
+  .team-strengths li {
+    margin-bottom: 6px;
+    color: #a592d0;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    position: relative;
+  }
+  
+  .team-strengths li::before {
+    content: '•';
+    position: absolute;
+    left: -15px;
+    color: #7f49cb;
+    transition: all 0.3s ease;
+  }
+  
+  .team-card:hover .team-strengths li {
+    color: #c4b5fd;
+    transform: translateX(3px);
+  }
+  
+  .team-card:hover .team-strengths li::before {
+    color: #9f7aea;
+    transform: scale(1.2);
+  }
+  
+  @keyframes float {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+      transform: translateY(-5px);
+    }
+    100% {
+      transform: translateY(0px);
+    }
+  }
+  
+  .team-card:hover .team-stats {
+    animation: float 3s ease-in-out infinite;
+  }

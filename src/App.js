@@ -1,24 +1,32 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import HomePage from './pages/HomePage';
+import MatchPage from './pages/MatchPage';
+import TeamsPage from './pages/TeamsPage';
+import PlayersPage from './pages/PlayersPage';
+import NewsPage from './pages/NewsPage';
+import StadiumVRPage from './pages/StadiumVRPage';
+import StatsPage from './pages/StatsPage'; 
+import Navbar from './components/Navbar';
+import './styles.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="app">
+        <Navbar />
+        <main className="container">
+          <Routes>
+            <Route path="/" element={<HomePage />} />
+            <Route path="/match/:matchId" element={<MatchPage />} />
+            <Route path="/teams" element={<TeamsPage />} />
+            <Route path="/news" element={<NewsPage />} />
+            <Route path="/stadium-vr" element={<StadiumVRPage />} />
+            <Route path="/stats" element={<StatsPage />} /> {/* Add the new route */}
+          </Routes>
+        </main>
+      </div>
+    </Router>
   );
 }
 

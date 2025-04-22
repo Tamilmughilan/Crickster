@@ -1,0 +1,3439 @@
+{
+  "Kolkata Knight Riders": {
+    "matches_played": 5,
+    "matches_won": 2,
+    "win_percentage": 40.0,
+    "total_runs_scored": 877,
+    "total_wickets_taken": 27,
+    "total_runs_conceded": 807,
+    "total_wickets_lost": 33,
+    "players": {
+      "Q de Kock": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 90,
+          "runs": 118,
+          "balls_faced": 90,
+          "dismissals": 4,
+          "average": 29.5,
+          "strike_rate": 131.11,
+          "fours": 9,
+          "sixes": 8
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "AM Rahane": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 121,
+          "runs": 184,
+          "balls_faced": 121,
+          "dismissals": 5,
+          "average": 36.8,
+          "strike_rate": 152.07,
+          "fours": 17,
+          "sixes": 12
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SP Narine": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 55,
+          "runs": 81,
+          "balls_faced": 55,
+          "dismissals": 4,
+          "average": 20.25,
+          "strike_rate": 147.27,
+          "fours": 9,
+          "sixes": 6
+        },
+        "bowling": {
+          "overs": 14.333333333333316,
+          "runs_conceded": 132,
+          "wickets": 2,
+          "economy": 9.21,
+          "average": 66.0,
+          "strike_rate": 43.0,
+          "balls_bowled": 86
+        }
+      },
+      "VR Iyer": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 79,
+          "runs": 114,
+          "balls_faced": 79,
+          "dismissals": 4,
+          "average": 28.5,
+          "strike_rate": 144.3,
+          "fours": 14,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "A Raghuvanshi": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 91,
+          "runs": 133,
+          "balls_faced": 91,
+          "dismissals": 4,
+          "average": 33.25,
+          "strike_rate": 146.15,
+          "fours": 13,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "RK Singh": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 59,
+          "runs": 99,
+          "balls_faced": 59,
+          "dismissals": 2,
+          "average": 49.5,
+          "strike_rate": 167.8,
+          "fours": 12,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "AD Russell": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 21,
+          "runs": 17,
+          "balls_faced": 21,
+          "dismissals": 4,
+          "average": 4.25,
+          "strike_rate": 80.95,
+          "fours": 2,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 6.833333333333337,
+          "runs_conceded": 88,
+          "wickets": 5,
+          "economy": 12.88,
+          "average": 17.6,
+          "strike_rate": 8.2,
+          "balls_bowled": 41
+        }
+      },
+      "Ramandeep Singh": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 24,
+          "runs": 29,
+          "balls_faced": 24,
+          "dismissals": 2,
+          "average": 14.5,
+          "strike_rate": 120.83,
+          "fours": 1,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Harshit Rana": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 23,
+          "runs": 19,
+          "balls_faced": 23,
+          "dismissals": 2,
+          "average": 9.5,
+          "strike_rate": 82.61,
+          "fours": 3,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 16.49999999999998,
+          "runs_conceded": 163,
+          "wickets": 5,
+          "economy": 9.88,
+          "average": 32.6,
+          "strike_rate": 19.8,
+          "balls_bowled": 99
+        }
+      },
+      "SH Johnson": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 4,
+          "runs": 2,
+          "balls_faced": 4,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 50.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 12.166666666666657,
+          "runs_conceded": 134,
+          "wickets": 1,
+          "economy": 11.01,
+          "average": 134.0,
+          "strike_rate": 73.0,
+          "balls_bowled": 73
+        }
+      },
+      "VG Arora": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.999999999999977,
+          "runs_conceded": 139,
+          "wickets": 6,
+          "economy": 8.69,
+          "average": 23.17,
+          "strike_rate": 16.0,
+          "balls_bowled": 96
+        }
+      },
+      "CV Varun": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 19.5,
+          "runs_conceded": 128,
+          "wickets": 6,
+          "economy": 6.56,
+          "average": 21.33,
+          "strike_rate": 19.5,
+          "balls_bowled": 117
+        }
+      },
+      "MM Ali": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 14,
+          "runs": 5,
+          "balls_faced": 14,
+          "dismissals": 1,
+          "average": 5.0,
+          "strike_rate": 35.71,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 3.9999999999999982,
+          "runs_conceded": 23,
+          "wickets": 2,
+          "economy": 5.75,
+          "average": 11.5,
+          "strike_rate": 12.0,
+          "balls_bowled": 24
+        }
+      },
+      "MK Pandey": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 14,
+          "runs": 19,
+          "balls_faced": 14,
+          "dismissals": 1,
+          "average": 19.0,
+          "strike_rate": 135.71,
+          "fours": 2,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      }
+    },
+    "strengths": [
+      "Strong batting lineup",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Royal Challengers Bengaluru": {
+    "matches_played": 5,
+    "matches_won": 3,
+    "win_percentage": 60.0,
+    "total_runs_scored": 926,
+    "total_wickets_taken": 31,
+    "total_runs_conceded": 868,
+    "total_wickets_lost": 30,
+    "players": {
+      "JR Hazlewood": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 19.166666666666664,
+          "runs_conceded": 164,
+          "wickets": 8,
+          "economy": 8.56,
+          "average": 20.5,
+          "strike_rate": 14.38,
+          "balls_bowled": 115
+        }
+      },
+      "Yash Dayal": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 17.16666666666665,
+          "runs_conceded": 154,
+          "wickets": 6,
+          "economy": 8.97,
+          "average": 25.67,
+          "strike_rate": 17.17,
+          "balls_bowled": 103
+        }
+      },
+      "Rasikh Salam": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 6.333333333333336,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 11.21,
+          "average": 71.0,
+          "strike_rate": 38.0,
+          "balls_bowled": 38
+        }
+      },
+      "KH Pandya": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 27,
+          "runs": 23,
+          "balls_faced": 27,
+          "dismissals": 3,
+          "average": 7.67,
+          "strike_rate": 85.19,
+          "fours": 2,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.666666666666645,
+          "runs_conceded": 154,
+          "wickets": 7,
+          "economy": 9.83,
+          "average": 22.0,
+          "strike_rate": 13.43,
+          "balls_bowled": 94
+        }
+      },
+      "Suyash Sharma": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 16.49999999999998,
+          "runs_conceded": 138,
+          "wickets": 2,
+          "economy": 8.36,
+          "average": 69.0,
+          "strike_rate": 49.5,
+          "balls_bowled": 99
+        }
+      },
+      "LS Livingstone": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 63,
+          "runs": 83,
+          "balls_faced": 63,
+          "dismissals": 4,
+          "average": 20.75,
+          "strike_rate": 131.75,
+          "fours": 3,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 8.000000000000005,
+          "runs_conceded": 68,
+          "wickets": 2,
+          "economy": 8.5,
+          "average": 34.0,
+          "strike_rate": 24.0,
+          "balls_bowled": 48
+        }
+      },
+      "PD Salt": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 82,
+          "runs": 143,
+          "balls_faced": 82,
+          "dismissals": 5,
+          "average": 28.6,
+          "strike_rate": 174.39,
+          "fours": 20,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "V Kohli": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 130,
+          "runs": 186,
+          "balls_faced": 130,
+          "dismissals": 4,
+          "average": 46.5,
+          "strike_rate": 143.08,
+          "fours": 16,
+          "sixes": 8
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "D Padikkal": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 60,
+          "runs": 79,
+          "balls_faced": 60,
+          "dismissals": 5,
+          "average": 15.8,
+          "strike_rate": 131.67,
+          "fours": 6,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "RM Patidar": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 122,
+          "runs": 186,
+          "balls_faced": 122,
+          "dismissals": 5,
+          "average": 37.2,
+          "strike_rate": 152.46,
+          "fours": 17,
+          "sixes": 9
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "JM Sharma": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 58,
+          "runs": 88,
+          "balls_faced": 58,
+          "dismissals": 3,
+          "average": 29.33,
+          "strike_rate": 151.72,
+          "fours": 8,
+          "sixes": 6
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "TH David": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 52,
+          "runs": 92,
+          "balls_faced": 52,
+          "dismissals": 1,
+          "average": 92.0,
+          "strike_rate": 176.92,
+          "fours": 6,
+          "sixes": 9
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "B Kumar": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 9,
+          "runs": 2,
+          "balls_faced": 9,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 22.22,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.499999999999979,
+          "runs_conceded": 119,
+          "wickets": 5,
+          "economy": 7.68,
+          "average": 23.8,
+          "strike_rate": 18.6,
+          "balls_bowled": 93
+        }
+      }
+    },
+    "strengths": [
+      "High win rate",
+      "Strong batting lineup",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Sunrisers Hyderabad": {
+    "matches_played": 5,
+    "matches_won": 1,
+    "win_percentage": 20.0,
+    "total_runs_scored": 911,
+    "total_wickets_taken": 23,
+    "total_runs_conceded": 954,
+    "total_wickets_lost": 43,
+    "players": {
+      "Abhishek Sharma": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 40,
+          "runs": 51,
+          "balls_faced": 40,
+          "dismissals": 5,
+          "average": 10.2,
+          "strike_rate": 127.5,
+          "fours": 10,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 8.166666666666671,
+          "runs_conceded": 82,
+          "wickets": 0,
+          "economy": 10.04,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 49
+        }
+      },
+      "TM Head": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 84,
+          "runs": 148,
+          "balls_faced": 84,
+          "dismissals": 5,
+          "average": 29.6,
+          "strike_rate": 176.19,
+          "fours": 21,
+          "sixes": 6
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Ishan Kishan": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 79,
+          "runs": 127,
+          "balls_faced": 79,
+          "dismissals": 4,
+          "average": 31.75,
+          "strike_rate": 160.76,
+          "fours": 13,
+          "sixes": 6
+        },
+        "bowling": {
+          "overs": 0.16666666666666666,
+          "runs_conceded": 4,
+          "wickets": 0,
+          "economy": 24.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 1
+        }
+      },
+      "Nithish Kumar Reddy": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 100,
+          "runs": 112,
+          "balls_faced": 100,
+          "dismissals": 5,
+          "average": 22.4,
+          "strike_rate": 112.0,
+          "fours": 11,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "H Klaasen": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 92,
+          "runs": 152,
+          "balls_faced": 92,
+          "dismissals": 5,
+          "average": 30.4,
+          "strike_rate": 165.22,
+          "fours": 13,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Aniket Verma": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 81,
+          "runs": 141,
+          "balls_faced": 81,
+          "dismissals": 5,
+          "average": 28.2,
+          "strike_rate": 174.07,
+          "fours": 8,
+          "sixes": 12
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "A Manohar": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 13,
+          "runs": 6,
+          "balls_faced": 13,
+          "dismissals": 3,
+          "average": 2.0,
+          "strike_rate": 46.15,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "PJ Cummins": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 36,
+          "runs": 56,
+          "balls_faced": 36,
+          "dismissals": 3,
+          "average": 18.67,
+          "strike_rate": 155.56,
+          "fours": 5,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 17.499999999999986,
+          "runs_conceded": 188,
+          "wickets": 4,
+          "economy": 10.74,
+          "average": 47.0,
+          "strike_rate": 26.25,
+          "balls_bowled": 105
+        }
+      },
+      "Mohammed Shami": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 11,
+          "runs": 10,
+          "balls_faced": 11,
+          "dismissals": 1,
+          "average": 10.0,
+          "strike_rate": 90.91,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 17.99999999999999,
+          "runs_conceded": 168,
+          "wickets": 5,
+          "economy": 9.33,
+          "average": 33.6,
+          "strike_rate": 21.6,
+          "balls_bowled": 108
+        }
+      },
+      "Simarjeet Singh": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 7,
+          "runs": 3,
+          "balls_faced": 7,
+          "dismissals": 2,
+          "average": 1.5,
+          "strike_rate": 42.86,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 10.499999999999996,
+          "runs_conceded": 146,
+          "wickets": 2,
+          "economy": 13.9,
+          "average": 73.0,
+          "strike_rate": 31.5,
+          "balls_bowled": 63
+        }
+      },
+      "A Zampa": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 8.333333333333337,
+          "runs_conceded": 94,
+          "wickets": 2,
+          "economy": 11.28,
+          "average": 47.0,
+          "strike_rate": 25.0,
+          "balls_bowled": 50
+        }
+      },
+      "HV Patel": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 26,
+          "runs": 20,
+          "balls_faced": 26,
+          "dismissals": 2,
+          "average": 10.0,
+          "strike_rate": 76.92,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 14.499999999999982,
+          "runs_conceded": 124,
+          "wickets": 4,
+          "economy": 8.55,
+          "average": 31.0,
+          "strike_rate": 21.75,
+          "balls_bowled": 87
+        }
+      },
+      "PWA Mulder": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 12,
+          "runs": 9,
+          "balls_faced": 12,
+          "dismissals": 1,
+          "average": 9.0,
+          "strike_rate": 75.0,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 0.9999999999999999,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 16.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 6
+        }
+      },
+      "Zeeshan Ansari": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 10.999999999999995,
+          "runs_conceded": 100,
+          "wickets": 4,
+          "economy": 9.09,
+          "average": 25.0,
+          "strike_rate": 16.5,
+          "balls_bowled": 66
+        }
+      },
+      "PHKD Mendis": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 25,
+          "runs": 28,
+          "balls_faced": 25,
+          "dismissals": 2,
+          "average": 14.0,
+          "strike_rate": 112.0,
+          "fours": 1,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 2.0,
+          "runs_conceded": 16,
+          "wickets": 1,
+          "economy": 8.0,
+          "average": 16.0,
+          "strike_rate": 12.0,
+          "balls_bowled": 12
+        }
+      },
+      "JD Unadkat": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 2.0,
+          "runs_conceded": 16,
+          "wickets": 0,
+          "economy": 8.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 12
+        }
+      }
+    },
+    "strengths": [
+      "Good all-rounders",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Rajasthan Royals": {
+    "matches_played": 5,
+    "matches_won": 2,
+    "win_percentage": 40.0,
+    "total_runs_scored": 939,
+    "total_wickets_taken": 29,
+    "total_runs_conceded": 987,
+    "total_wickets_lost": 38,
+    "players": {
+      "Fazalhaq Farooqi": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 7.0000000000000036,
+          "runs_conceded": 87,
+          "wickets": 0,
+          "economy": 12.43,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 42
+        }
+      },
+      "M Theekshana": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 18,
+          "runs": 8,
+          "balls_faced": 18,
+          "dismissals": 1,
+          "average": 8.0,
+          "strike_rate": 44.44,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 22.000000000000018,
+          "runs_conceded": 195,
+          "wickets": 6,
+          "economy": 8.86,
+          "average": 32.5,
+          "strike_rate": 22.0,
+          "balls_bowled": 132
+        }
+      },
+      "JC Archer": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 15,
+          "runs": 21,
+          "balls_faced": 15,
+          "dismissals": 3,
+          "average": 7.0,
+          "strike_rate": 140.0,
+          "fours": 0,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 19.166666666666664,
+          "runs_conceded": 187,
+          "wickets": 5,
+          "economy": 9.76,
+          "average": 37.4,
+          "strike_rate": 23.0,
+          "balls_bowled": 115
+        }
+      },
+      "Sandeep Sharma": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 6,
+          "runs": 6,
+          "balls_faced": 6,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 100.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 18.83333333333333,
+          "runs_conceded": 166,
+          "wickets": 5,
+          "economy": 8.81,
+          "average": 33.2,
+          "strike_rate": 22.6,
+          "balls_bowled": 113
+        }
+      },
+      "N Rana": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 67,
+          "runs": 113,
+          "balls_faced": 67,
+          "dismissals": 5,
+          "average": 22.6,
+          "strike_rate": 168.66,
+          "fours": 14,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 2.0,
+          "runs_conceded": 18,
+          "wickets": 0,
+          "economy": 9.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 12
+        }
+      },
+      "TU Deshpande": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 7,
+          "runs": 6,
+          "balls_faced": 7,
+          "dismissals": 1,
+          "average": 6.0,
+          "strike_rate": 85.71,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.333333333333313,
+          "runs_conceded": 150,
+          "wickets": 5,
+          "economy": 9.78,
+          "average": 30.0,
+          "strike_rate": 18.4,
+          "balls_bowled": 92
+        }
+      },
+      "YBK Jaiswal": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 90,
+          "runs": 107,
+          "balls_faced": 90,
+          "dismissals": 5,
+          "average": 21.4,
+          "strike_rate": 118.89,
+          "fours": 7,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SV Samson": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 120,
+          "runs": 178,
+          "balls_faced": 120,
+          "dismissals": 5,
+          "average": 35.6,
+          "strike_rate": 148.33,
+          "fours": 20,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "R Parag": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 88,
+          "runs": 135,
+          "balls_faced": 88,
+          "dismissals": 4,
+          "average": 33.75,
+          "strike_rate": 153.41,
+          "fours": 7,
+          "sixes": 11
+        },
+        "bowling": {
+          "overs": 3.9999999999999982,
+          "runs_conceded": 26,
+          "wickets": 0,
+          "economy": 6.5,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 24
+        }
+      },
+      "Dhruv Jurel": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 82,
+          "runs": 124,
+          "balls_faced": 82,
+          "dismissals": 4,
+          "average": 31.0,
+          "strike_rate": 151.22,
+          "fours": 12,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SB Dubey": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 26,
+          "runs": 44,
+          "balls_faced": 26,
+          "dismissals": 2,
+          "average": 22.0,
+          "strike_rate": 169.23,
+          "fours": 2,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SO Hetmyer": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 101,
+          "runs": 140,
+          "balls_faced": 101,
+          "dismissals": 5,
+          "average": 28.0,
+          "strike_rate": 138.61,
+          "fours": 9,
+          "sixes": 9
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "PWH de Silva": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 9,
+          "runs": 8,
+          "balls_faced": 9,
+          "dismissals": 2,
+          "average": 4.0,
+          "strike_rate": 88.89,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 10.999999999999995,
+          "runs_conceded": 107,
+          "wickets": 6,
+          "economy": 9.73,
+          "average": 17.83,
+          "strike_rate": 11.0,
+          "balls_bowled": 66
+        }
+      },
+      "K Kartikeya": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 1,
+          "balls_faced": 1,
+          "dismissals": 1,
+          "average": 1.0,
+          "strike_rate": 100.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 2.999999999999999,
+          "runs_conceded": 31,
+          "wickets": 1,
+          "economy": 10.33,
+          "average": 31.0,
+          "strike_rate": 18.0,
+          "balls_bowled": 18
+        }
+      },
+      "Yudhvir Singh": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 2.4999999999999996,
+          "runs_conceded": 20,
+          "wickets": 0,
+          "economy": 8.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 15
+        }
+      }
+    },
+    "strengths": [
+      "Strong batting lineup",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Mumbai Indians": {
+    "matches_played": 5,
+    "matches_won": 1,
+    "win_percentage": 20.0,
+    "total_runs_scored": 836,
+    "total_wickets_taken": 37,
+    "total_runs_conceded": 894,
+    "total_wickets_lost": 31,
+    "players": {
+      "RG Sharma": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 29,
+          "runs": 38,
+          "balls_faced": 29,
+          "dismissals": 4,
+          "average": 9.5,
+          "strike_rate": 131.03,
+          "fours": 4,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "WG Jacks": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 49,
+          "runs": 54,
+          "balls_faced": 49,
+          "dismissals": 4,
+          "average": 13.5,
+          "strike_rate": 110.2,
+          "fours": 4,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 5.166666666666667,
+          "runs_conceded": 42,
+          "wickets": 1,
+          "economy": 8.13,
+          "average": 42.0,
+          "strike_rate": 31.0,
+          "balls_bowled": 31
+        }
+      },
+      "RD Rickelton": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 75,
+          "runs": 108,
+          "balls_faced": 75,
+          "dismissals": 4,
+          "average": 27.0,
+          "strike_rate": 144.0,
+          "fours": 14,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SA Yadav": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 136,
+          "runs": 199,
+          "balls_faced": 136,
+          "dismissals": 4,
+          "average": 49.75,
+          "strike_rate": 146.32,
+          "fours": 20,
+          "sixes": 8
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Tilak Varma": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 121,
+          "runs": 151,
+          "balls_faced": 121,
+          "dismissals": 4,
+          "average": 37.75,
+          "strike_rate": 124.79,
+          "fours": 11,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "R Minz": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 16,
+          "runs": 6,
+          "balls_faced": 16,
+          "dismissals": 2,
+          "average": 3.0,
+          "strike_rate": 37.5,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Naman Dhir": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 54,
+          "runs": 92,
+          "balls_faced": 54,
+          "dismissals": 3,
+          "average": 30.67,
+          "strike_rate": 170.37,
+          "fours": 9,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 2.999999999999999,
+          "runs_conceded": 12,
+          "wickets": 0,
+          "economy": 4.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 18
+        }
+      },
+      "MJ Santner": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 29,
+          "runs": 39,
+          "balls_faced": 29,
+          "dismissals": 2,
+          "average": 19.5,
+          "strike_rate": 134.48,
+          "fours": 2,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 16.833333333333314,
+          "runs_conceded": 153,
+          "wickets": 1,
+          "economy": 9.09,
+          "average": 153.0,
+          "strike_rate": 101.0,
+          "balls_bowled": 101
+        }
+      },
+      "DL Chahar": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 16,
+          "runs": 28,
+          "balls_faced": 16,
+          "dismissals": 1,
+          "average": 28.0,
+          "strike_rate": 175.0,
+          "fours": 2,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 12.833333333333321,
+          "runs_conceded": 128,
+          "wickets": 4,
+          "economy": 9.97,
+          "average": 32.0,
+          "strike_rate": 19.25,
+          "balls_bowled": 77
+        }
+      },
+      "TA Boult": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 4,
+          "runs": 2,
+          "balls_faced": 4,
+          "dismissals": 1,
+          "average": 2.0,
+          "strike_rate": 50.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 18.499999999999993,
+          "runs_conceded": 169,
+          "wickets": 5,
+          "economy": 9.14,
+          "average": 33.8,
+          "strike_rate": 22.2,
+          "balls_bowled": 111
+        }
+      },
+      "PVSN Raju": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 1,
+          "balls_faced": 1,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 100.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 4.833333333333333,
+          "runs_conceded": 54,
+          "wickets": 1,
+          "economy": 11.17,
+          "average": 54.0,
+          "strike_rate": 29.0,
+          "balls_bowled": 29
+        }
+      },
+      "V Puthur": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 11.16666666666666,
+          "runs_conceded": 94,
+          "wickets": 6,
+          "economy": 8.42,
+          "average": 15.67,
+          "strike_rate": 11.17,
+          "balls_bowled": 67
+        }
+      },
+      "Mujeeb Ur Rahman": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 2.1666666666666665,
+          "runs_conceded": 28,
+          "wickets": 1,
+          "economy": 12.92,
+          "average": 28.0,
+          "strike_rate": 13.0,
+          "balls_bowled": 13
+        }
+      },
+      "HH Pandya": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 51,
+          "runs": 81,
+          "balls_faced": 51,
+          "dismissals": 2,
+          "average": 40.5,
+          "strike_rate": 158.82,
+          "fours": 6,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 15.666666666666645,
+          "runs_conceded": 121,
+          "wickets": 10,
+          "economy": 7.72,
+          "average": 12.1,
+          "strike_rate": 9.4,
+          "balls_bowled": 94
+        }
+      },
+      "Ashwani Kumar": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 6.66666666666667,
+          "runs_conceded": 64,
+          "wickets": 5,
+          "economy": 9.6,
+          "average": 12.8,
+          "strike_rate": 8.0,
+          "balls_bowled": 40
+        }
+      },
+      "JJ Bumrah": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 0,
+          "balls_faced": 1,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 3.9999999999999982,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 7.25,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 24
+        }
+      }
+    },
+    "strengths": [
+      "Strong batting lineup",
+      "Good all-rounders",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Chennai Super Kings": {
+    "matches_played": 5,
+    "matches_won": 1,
+    "win_percentage": 20.0,
+    "total_runs_scored": 839,
+    "total_wickets_taken": 37,
+    "total_runs_conceded": 935,
+    "total_wickets_lost": 30,
+    "players": {
+      "KK Ahmed": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 20.500000000000007,
+          "runs_conceded": 169,
+          "wickets": 10,
+          "economy": 8.24,
+          "average": 16.9,
+          "strike_rate": 12.3,
+          "balls_bowled": 123
+        }
+      },
+      "SM Curran": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 22,
+          "runs": 12,
+          "balls_faced": 22,
+          "dismissals": 2,
+          "average": 6.0,
+          "strike_rate": 54.55,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 4.333333333333332,
+          "runs_conceded": 48,
+          "wickets": 0,
+          "economy": 11.08,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 26
+        }
+      },
+      "NT Ellis": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 4.166666666666665,
+          "runs_conceded": 39,
+          "wickets": 1,
+          "economy": 9.36,
+          "average": 39.0,
+          "strike_rate": 25.0,
+          "balls_bowled": 25
+        }
+      },
+      "R Ashwin": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 8,
+          "runs": 11,
+          "balls_faced": 8,
+          "dismissals": 1,
+          "average": 11.0,
+          "strike_rate": 137.5,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 17.499999999999986,
+          "runs_conceded": 168,
+          "wickets": 5,
+          "economy": 9.6,
+          "average": 33.6,
+          "strike_rate": 21.0,
+          "balls_bowled": 105
+        }
+      },
+      "RA Jadeja": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 70,
+          "runs": 85,
+          "balls_faced": 70,
+          "dismissals": 3,
+          "average": 28.33,
+          "strike_rate": 121.43,
+          "fours": 5,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 13.499999999999986,
+          "runs_conceded": 105,
+          "wickets": 2,
+          "economy": 7.78,
+          "average": 52.5,
+          "strike_rate": 40.5,
+          "balls_bowled": 81
+        }
+      },
+      "Noor Ahmad": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 2,
+          "runs": 0,
+          "balls_faced": 2,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 18.83333333333333,
+          "runs_conceded": 155,
+          "wickets": 11,
+          "economy": 8.23,
+          "average": 14.09,
+          "strike_rate": 10.27,
+          "balls_bowled": 113
+        }
+      },
+      "R Ravindra": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 112,
+          "runs": 145,
+          "balls_faced": 112,
+          "dismissals": 4,
+          "average": 36.25,
+          "strike_rate": 129.46,
+          "fours": 13,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "RA Tripathi": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 25,
+          "runs": 30,
+          "balls_faced": 25,
+          "dismissals": 3,
+          "average": 10.0,
+          "strike_rate": 120.0,
+          "fours": 4,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "RD Gaikwad": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 82,
+          "runs": 122,
+          "balls_faced": 82,
+          "dismissals": 5,
+          "average": 24.4,
+          "strike_rate": 148.78,
+          "fours": 14,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "S Dube": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 78,
+          "runs": 106,
+          "balls_faced": 78,
+          "dismissals": 5,
+          "average": 21.2,
+          "strike_rate": 135.9,
+          "fours": 7,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "DJ Hooda": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 14,
+          "runs": 7,
+          "balls_faced": 14,
+          "dismissals": 2,
+          "average": 3.5,
+          "strike_rate": 50.0,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "MS Dhoni": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 71,
+          "runs": 103,
+          "balls_faced": 71,
+          "dismissals": 2,
+          "average": 51.5,
+          "strike_rate": 145.07,
+          "fours": 6,
+          "sixes": 7
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "M Pathirana": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 17.666666666666654,
+          "runs_conceded": 150,
+          "wickets": 5,
+          "economy": 8.49,
+          "average": 30.0,
+          "strike_rate": 21.2,
+          "balls_bowled": 106
+        }
+      },
+      "J Overton": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 4,
+          "runs": 11,
+          "balls_faced": 4,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 275.0,
+          "fours": 0,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 2.0,
+          "runs_conceded": 30,
+          "wickets": 0,
+          "economy": 15.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 12
+        }
+      },
+      "V Shankar": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 65,
+          "runs": 80,
+          "balls_faced": 65,
+          "dismissals": 1,
+          "average": 80.0,
+          "strike_rate": 123.08,
+          "fours": 5,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Mukesh Choudhary": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 6.000000000000002,
+          "runs_conceded": 71,
+          "wickets": 1,
+          "economy": 11.83,
+          "average": 71.0,
+          "strike_rate": 36.0,
+          "balls_bowled": 36
+        }
+      },
+      "DP Conway": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 67,
+          "runs": 82,
+          "balls_faced": 67,
+          "dismissals": 2,
+          "average": 41.0,
+          "strike_rate": 122.39,
+          "fours": 7,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      }
+    },
+    "strengths": [
+      "Strong batting lineup",
+      "Good all-rounders",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Lucknow Super Giants": {
+    "matches_played": 5,
+    "matches_won": 3,
+    "win_percentage": 60.0,
+    "total_runs_scored": 1014,
+    "total_wickets_taken": 32,
+    "total_runs_conceded": 1003,
+    "total_wickets_lost": 31,
+    "players": {
+      "AK Markram": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 105,
+          "runs": 144,
+          "balls_faced": 105,
+          "dismissals": 5,
+          "average": 28.8,
+          "strike_rate": 137.14,
+          "fours": 11,
+          "sixes": 8
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "MR Marsh": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 158,
+          "runs": 265,
+          "balls_faced": 158,
+          "dismissals": 5,
+          "average": 53.0,
+          "strike_rate": 167.72,
+          "fours": 28,
+          "sixes": 15
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "N Pooran": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 139,
+          "runs": 288,
+          "balls_faced": 139,
+          "dismissals": 4,
+          "average": 72.0,
+          "strike_rate": 207.19,
+          "fours": 25,
+          "sixes": 24
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "RR Pant": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 33,
+          "runs": 19,
+          "balls_faced": 33,
+          "dismissals": 4,
+          "average": 4.75,
+          "strike_rate": 57.58,
+          "fours": 0,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "DA Miller": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 63,
+          "runs": 90,
+          "balls_faced": 63,
+          "dismissals": 2,
+          "average": 45.0,
+          "strike_rate": 142.86,
+          "fours": 9,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "A Badoni": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 66,
+          "runs": 81,
+          "balls_faced": 66,
+          "dismissals": 4,
+          "average": 20.25,
+          "strike_rate": 122.73,
+          "fours": 6,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SN Thakur": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 7,
+          "runs": 8,
+          "balls_faced": 7,
+          "dismissals": 1,
+          "average": 8.0,
+          "strike_rate": 114.29,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 19.333333333333332,
+          "runs_conceded": 184,
+          "wickets": 9,
+          "economy": 9.52,
+          "average": 20.44,
+          "strike_rate": 12.89,
+          "balls_bowled": 116
+        }
+      },
+      "Shahbaz Ahmed": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 8,
+          "runs": 9,
+          "balls_faced": 8,
+          "dismissals": 1,
+          "average": 9.0,
+          "strike_rate": 112.5,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 1.6666666666666667,
+          "runs_conceded": 22,
+          "wickets": 0,
+          "economy": 13.2,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 10
+        }
+      },
+      "Ravi Bishnoi": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 2,
+          "runs": 0,
+          "balls_faced": 2,
+          "dismissals": 1,
+          "average": 0.0,
+          "strike_rate": 0.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 19.5,
+          "runs_conceded": 225,
+          "wickets": 4,
+          "economy": 11.54,
+          "average": 56.25,
+          "strike_rate": 29.25,
+          "balls_bowled": 117
+        }
+      },
+      "M Siddharth": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 7.1666666666666705,
+          "runs_conceded": 68,
+          "wickets": 2,
+          "economy": 9.49,
+          "average": 34.0,
+          "strike_rate": 21.5,
+          "balls_bowled": 43
+        }
+      },
+      "DS Rathi": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 20.666666666666675,
+          "runs_conceded": 161,
+          "wickets": 7,
+          "economy": 7.79,
+          "average": 23.0,
+          "strike_rate": 17.71,
+          "balls_bowled": 124
+        }
+      },
+      "Prince Yadav": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 8.833333333333336,
+          "runs_conceded": 76,
+          "wickets": 1,
+          "economy": 8.6,
+          "average": 76.0,
+          "strike_rate": 53.0,
+          "balls_bowled": 53
+        }
+      },
+      "Avesh Khan": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 3,
+          "runs": 2,
+          "balls_faced": 3,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 66.67,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.333333333333313,
+          "runs_conceded": 160,
+          "wickets": 3,
+          "economy": 10.43,
+          "average": 53.33,
+          "strike_rate": 30.67,
+          "balls_bowled": 92
+        }
+      },
+      "Abdul Samad": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 26,
+          "runs": 59,
+          "balls_faced": 26,
+          "dismissals": 3,
+          "average": 19.67,
+          "strike_rate": 226.92,
+          "fours": 6,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0.3333333333333333,
+          "runs_conceded": 6,
+          "wickets": 0,
+          "economy": 18.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 2
+        }
+      },
+      "Akash Deep": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 0,
+          "balls_faced": 1,
+          "dismissals": 1,
+          "average": 0.0,
+          "strike_rate": 0.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 8.66666666666667,
+          "runs_conceded": 101,
+          "wickets": 3,
+          "economy": 11.65,
+          "average": 33.67,
+          "strike_rate": 17.33,
+          "balls_bowled": 52
+        }
+      }
+    },
+    "strengths": [
+      "High win rate",
+      "Strong batting lineup",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Delhi Capitals": {
+    "matches_played": 4,
+    "matches_won": 4,
+    "win_percentage": 100.0,
+    "total_runs_scored": 729,
+    "total_wickets_taken": 30,
+    "total_runs_conceded": 693,
+    "total_wickets_lost": 22,
+    "players": {
+      "MA Starc": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 5,
+          "runs": 2,
+          "balls_faced": 5,
+          "dismissals": 1,
+          "average": 2.0,
+          "strike_rate": 40.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.83333333333331,
+          "runs_conceded": 148,
+          "wickets": 9,
+          "economy": 9.35,
+          "average": 16.44,
+          "strike_rate": 10.56,
+          "balls_bowled": 95
+        }
+      },
+      "AR Patel": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 36,
+          "runs": 58,
+          "balls_faced": 36,
+          "dismissals": 3,
+          "average": 19.33,
+          "strike_rate": 161.11,
+          "fours": 7,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 12.166666666666657,
+          "runs_conceded": 118,
+          "wickets": 0,
+          "economy": 9.7,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 73
+        }
+      },
+      "V Nigam": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 18,
+          "runs": 40,
+          "balls_faced": 18,
+          "dismissals": 1,
+          "average": 40.0,
+          "strike_rate": 222.22,
+          "fours": 5,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 12.333333333333323,
+          "runs_conceded": 101,
+          "wickets": 5,
+          "economy": 8.19,
+          "average": 20.2,
+          "strike_rate": 14.8,
+          "balls_bowled": 74
+        }
+      },
+      "Mukesh Kumar": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 12.166666666666657,
+          "runs_conceded": 103,
+          "wickets": 3,
+          "economy": 8.47,
+          "average": 34.33,
+          "strike_rate": 24.33,
+          "balls_bowled": 73
+        }
+      },
+      "Kuldeep Yadav": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 5,
+          "runs": 5,
+          "balls_faced": 5,
+          "dismissals": 1,
+          "average": 5.0,
+          "strike_rate": 100.0,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 15.999999999999977,
+          "runs_conceded": 90,
+          "wickets": 8,
+          "economy": 5.62,
+          "average": 11.25,
+          "strike_rate": 12.0,
+          "balls_bowled": 96
+        }
+      },
+      "MM Sharma": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 2,
+          "runs": 1,
+          "balls_faced": 2,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 50.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 13.499999999999986,
+          "runs_conceded": 105,
+          "wickets": 2,
+          "economy": 7.78,
+          "average": 52.5,
+          "strike_rate": 40.5,
+          "balls_bowled": 81
+        }
+      },
+      "T Stubbs": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 72,
+          "runs": 117,
+          "balls_faced": 72,
+          "dismissals": 1,
+          "average": 117.0,
+          "strike_rate": 162.5,
+          "fours": 10,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0.9999999999999999,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 28.0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 6
+        }
+      },
+      "J Fraser-McGurk": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 46,
+          "runs": 46,
+          "balls_faced": 46,
+          "dismissals": 4,
+          "average": 11.5,
+          "strike_rate": 100.0,
+          "fours": 5,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "F du Plessis": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 55,
+          "runs": 81,
+          "balls_faced": 55,
+          "dismissals": 3,
+          "average": 27.0,
+          "strike_rate": 147.27,
+          "fours": 6,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Abishek Porel": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 47,
+          "runs": 74,
+          "balls_faced": 47,
+          "dismissals": 3,
+          "average": 24.67,
+          "strike_rate": 157.45,
+          "fours": 7,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Sameer Rizvi": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 21,
+          "runs": 24,
+          "balls_faced": 21,
+          "dismissals": 2,
+          "average": 12.0,
+          "strike_rate": 114.29,
+          "fours": 2,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Ashutosh Sharma": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 32,
+          "runs": 67,
+          "balls_faced": 32,
+          "dismissals": 1,
+          "average": 67.0,
+          "strike_rate": 209.38,
+          "fours": 5,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "KL Rahul": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 113,
+          "runs": 185,
+          "balls_faced": 113,
+          "dismissals": 2,
+          "average": 92.5,
+          "strike_rate": 163.72,
+          "fours": 15,
+          "sixes": 10
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      }
+    },
+    "strengths": [
+      "High win rate",
+      "Strong batting lineup",
+      "Good all-rounders",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Punjab Kings": {
+    "matches_played": 4,
+    "matches_won": 3,
+    "win_percentage": 75.0,
+    "total_runs_scored": 794,
+    "total_wickets_taken": 21,
+    "total_runs_conceded": 809,
+    "total_wickets_lost": 22,
+    "players": {
+      "Priyansh Arya": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 77,
+          "runs": 158,
+          "balls_faced": 77,
+          "dismissals": 4,
+          "average": 39.5,
+          "strike_rate": 205.19,
+          "fours": 15,
+          "sixes": 11
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "P Simran Singh": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 63,
+          "runs": 91,
+          "balls_faced": 63,
+          "dismissals": 4,
+          "average": 22.75,
+          "strike_rate": 144.44,
+          "fours": 12,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SS Iyer": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 89,
+          "runs": 168,
+          "balls_faced": 89,
+          "dismissals": 2,
+          "average": 84.0,
+          "strike_rate": 188.76,
+          "fours": 10,
+          "sixes": 14
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Azmatullah Omarzai": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 15,
+          "runs": 16,
+          "balls_faced": 15,
+          "dismissals": 1,
+          "average": 16.0,
+          "strike_rate": 106.67,
+          "fours": 2,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 2.0,
+          "runs_conceded": 29,
+          "wickets": 0,
+          "economy": 14.5,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 12
+        }
+      },
+      "GJ Maxwell": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 27,
+          "runs": 31,
+          "balls_faced": 27,
+          "dismissals": 3,
+          "average": 10.33,
+          "strike_rate": 114.81,
+          "fours": 3,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 8.166666666666671,
+          "runs_conceded": 66,
+          "wickets": 3,
+          "economy": 8.08,
+          "average": 22.0,
+          "strike_rate": 16.33,
+          "balls_bowled": 49
+        }
+      },
+      "MP Stoinis": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 30,
+          "runs": 25,
+          "balls_faced": 30,
+          "dismissals": 3,
+          "average": 8.33,
+          "strike_rate": 83.33,
+          "fours": 1,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 9.166666666666668,
+          "runs_conceded": 105,
+          "wickets": 0,
+          "economy": 11.45,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 55
+        }
+      },
+      "Shashank Singh": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 68,
+          "runs": 106,
+          "balls_faced": 68,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 155.88,
+          "fours": 8,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Arshdeep Singh": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 5,
+          "runs": 1,
+          "balls_faced": 5,
+          "dismissals": 1,
+          "average": 1.0,
+          "strike_rate": 20.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 16.666666666666647,
+          "runs_conceded": 153,
+          "wickets": 6,
+          "economy": 9.18,
+          "average": 25.5,
+          "strike_rate": 16.67,
+          "balls_bowled": 100
+        }
+      },
+      "M Jansen": {
+        "role": "All-rounder",
+        "batting": {
+          "innings": 26,
+          "runs": 37,
+          "balls_faced": 26,
+          "dismissals": 1,
+          "average": 37.0,
+          "strike_rate": 142.31,
+          "fours": 2,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 16.666666666666647,
+          "runs_conceded": 170,
+          "wickets": 3,
+          "economy": 10.2,
+          "average": 56.67,
+          "strike_rate": 33.33,
+          "balls_bowled": 100
+        }
+      },
+      "YS Chahal": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 11.333333333333327,
+          "runs_conceded": 112,
+          "wickets": 1,
+          "economy": 9.88,
+          "average": 112.0,
+          "strike_rate": 68.0,
+          "balls_bowled": 68
+        }
+      },
+      "Vijaykumar Vyshak": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 3.8333333333333317,
+          "runs_conceded": 28,
+          "wickets": 0,
+          "economy": 7.3,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 23
+        }
+      },
+      "LH Ferguson": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 4,
+          "balls_faced": 1,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 400.0,
+          "fours": 1,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 12.333333333333323,
+          "runs_conceded": 106,
+          "wickets": 5,
+          "economy": 8.59,
+          "average": 21.2,
+          "strike_rate": 14.8,
+          "balls_bowled": 74
+        }
+      },
+      "N Wadhera": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 74,
+          "runs": 114,
+          "balls_faced": 74,
+          "dismissals": 2,
+          "average": 57.0,
+          "strike_rate": 154.05,
+          "fours": 7,
+          "sixes": 8
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Suryansh Shedge": {
+        "role": "Unknown",
+        "batting": {
+          "innings": 4,
+          "runs": 2,
+          "balls_faced": 4,
+          "dismissals": 1,
+          "average": 2.0,
+          "strike_rate": 50.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Yash Thakur": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 4.166666666666665,
+          "runs_conceded": 40,
+          "wickets": 1,
+          "economy": 9.6,
+          "average": 40.0,
+          "strike_rate": 25.0,
+          "balls_bowled": 25
+        }
+      }
+    },
+    "strengths": [
+      "High win rate",
+      "Strong batting lineup",
+      "Good all-rounders",
+      "Strong six-hitting ability"
+    ]
+  },
+  "Gujarat Titans": {
+    "matches_played": 5,
+    "matches_won": 4,
+    "win_percentage": 80.0,
+    "total_runs_scored": 968,
+    "total_wickets_taken": 37,
+    "total_runs_conceded": 883,
+    "total_wickets_lost": 24,
+    "players": {
+      "Mohammed Siraj": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 21.666666666666682,
+          "runs_conceded": 164,
+          "wickets": 10,
+          "economy": 7.57,
+          "average": 16.4,
+          "strike_rate": 13.0,
+          "balls_bowled": 130
+        }
+      },
+      "K Rabada": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 6,
+          "runs": 7,
+          "balls_faced": 6,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 116.67,
+          "fours": 0,
+          "sixes": 1
+        },
+        "bowling": {
+          "overs": 8.500000000000004,
+          "runs_conceded": 84,
+          "wickets": 2,
+          "economy": 9.88,
+          "average": 42.0,
+          "strike_rate": 25.5,
+          "balls_bowled": 51
+        }
+      },
+      "Arshad Khan": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 1,
+          "balls_faced": 1,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 100.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 5.500000000000001,
+          "runs_conceded": 58,
+          "wickets": 2,
+          "economy": 10.55,
+          "average": 29.0,
+          "strike_rate": 16.5,
+          "balls_bowled": 33
+        }
+      },
+      "Rashid Khan": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 11,
+          "runs": 18,
+          "balls_faced": 11,
+          "dismissals": 2,
+          "average": 9.0,
+          "strike_rate": 163.64,
+          "fours": 1,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 18.499999999999993,
+          "runs_conceded": 181,
+          "wickets": 3,
+          "economy": 9.78,
+          "average": 60.33,
+          "strike_rate": 37.0,
+          "balls_bowled": 111
+        }
+      },
+      "M Prasidh Krishna": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 19.333333333333332,
+          "runs_conceded": 136,
+          "wickets": 8,
+          "economy": 7.03,
+          "average": 17.0,
+          "strike_rate": 14.5,
+          "balls_bowled": 116
+        }
+      },
+      "R Sai Kishore": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 1,
+          "runs": 1,
+          "balls_faced": 1,
+          "dismissals": 1,
+          "average": 1.0,
+          "strike_rate": 100.0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 18.83333333333333,
+          "runs_conceded": 134,
+          "wickets": 10,
+          "economy": 7.12,
+          "average": 13.4,
+          "strike_rate": 11.3,
+          "balls_bowled": 113
+        }
+      },
+      "B Sai Sudharsan": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 193,
+          "runs": 273,
+          "balls_faced": 193,
+          "dismissals": 5,
+          "average": 54.6,
+          "strike_rate": 141.45,
+          "fours": 24,
+          "sixes": 12
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "Shubman Gill": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 103,
+          "runs": 148,
+          "balls_faced": 103,
+          "dismissals": 4,
+          "average": 37.0,
+          "strike_rate": 143.69,
+          "fours": 16,
+          "sixes": 5
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "JC Buttler": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 125,
+          "runs": 202,
+          "balls_faced": 125,
+          "dismissals": 4,
+          "average": 50.5,
+          "strike_rate": 161.6,
+          "fours": 19,
+          "sixes": 9
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "SE Rutherford": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 87,
+          "runs": 136,
+          "balls_faced": 87,
+          "dismissals": 3,
+          "average": 45.33,
+          "strike_rate": 156.32,
+          "fours": 11,
+          "sixes": 10
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "R Tewatia": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 17,
+          "runs": 30,
+          "balls_faced": 17,
+          "dismissals": 2,
+          "average": 15.0,
+          "strike_rate": 176.47,
+          "fours": 2,
+          "sixes": 3
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "M Shahrukh Khan": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 31,
+          "runs": 51,
+          "balls_faced": 31,
+          "dismissals": 2,
+          "average": 25.5,
+          "strike_rate": 164.52,
+          "fours": 4,
+          "sixes": 4
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "I Sharma": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 8.333333333333337,
+          "runs_conceded": 97,
+          "wickets": 1,
+          "economy": 11.64,
+          "average": 97.0,
+          "strike_rate": 50.0,
+          "balls_bowled": 50
+        }
+      },
+      "Washington Sundar": {
+        "role": "Batsman",
+        "batting": {
+          "innings": 29,
+          "runs": 49,
+          "balls_faced": 29,
+          "dismissals": 1,
+          "average": 49.0,
+          "strike_rate": 168.97,
+          "fours": 5,
+          "sixes": 2
+        },
+        "bowling": {
+          "overs": 0,
+          "runs_conceded": 0,
+          "wickets": 0,
+          "economy": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "balls_bowled": 0
+        }
+      },
+      "K Khejroliya": {
+        "role": "Bowler",
+        "batting": {
+          "innings": 0,
+          "runs": 0,
+          "balls_faced": 0,
+          "dismissals": 0,
+          "average": 0,
+          "strike_rate": 0,
+          "fours": 0,
+          "sixes": 0
+        },
+        "bowling": {
+          "overs": 3.1666666666666656,
+          "runs_conceded": 29,
+          "wickets": 1,
+          "economy": 9.16,
+          "average": 29.0,
+          "strike_rate": 19.0,
+          "balls_bowled": 19
+        }
+      }
+    },
+    "strengths": [
+      "High win rate",
+      "Strong batting lineup",
+      "Strong six-hitting ability"
+    ]
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "t20": {
+    "Pakistan": {
+      "matches_played": 5,
+      "matches_won": 1,
+      "win_percentage": 20.0,
+      "strengths": [
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "New Zealand": {
+      "matches_played": 10,
+      "matches_won": 5,
+      "win_percentage": 50.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Sri Lanka": {
+      "matches_played": 2,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Australia": {
+      "matches_played": 3,
+      "matches_won": 3,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Argentina": {
+      "matches_played": 2,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "United States of America": {
+      "matches_played": 2,
+      "matches_won": 2,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Brazil": {
+      "matches_played": 1,
+      "matches_won": 1,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Canada": {
+      "matches_played": 4,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Malaysia": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": []
+    },
+    "Hong Kong": {
+      "matches_played": 4,
+      "matches_won": 2,
+      "win_percentage": 50.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Bahrain": {
+      "matches_played": 1,
+      "matches_won": 1,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Namibia": {
+      "matches_played": 6,
+      "matches_won": 3,
+      "win_percentage": 50.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Uganda": {
+      "matches_played": 3,
+      "matches_won": 3,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Cook Islands": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Indonesia": {
+      "matches_played": 2,
+      "matches_won": 2,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Philippines": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Norway": {
+      "matches_played": 6,
+      "matches_won": 2,
+      "win_percentage": 33.33,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Portugal": {
+      "matches_played": 6,
+      "matches_won": 4,
+      "win_percentage": 66.67,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Qatar": {
+      "matches_played": 2,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Good all-rounders"
+      ]
+    },
+    "Nepal": {
+      "matches_played": 2,
+      "matches_won": 2,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Kuwait": {
+      "matches_played": 2,
+      "matches_won": 1,
+      "win_percentage": 50.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    }
+  },
+  "odi": {
+    "New Zealand": {
+      "matches_played": 3,
+      "matches_won": 3,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Pakistan": {
+      "matches_played": 4,
+      "matches_won": 1,
+      "win_percentage": 25.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Namibia": {
+      "matches_played": 1,
+      "matches_won": 1,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Canada": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Ireland": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Scotland": {
+      "matches_played": 1,
+      "matches_won": 1,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "West Indies": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    },
+    "Bangladesh": {
+      "matches_played": 1,
+      "matches_won": 1,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong bowling attack"
+      ]
+    },
+    "Thailand": {
+      "matches_played": 1,
+      "matches_won": 0,
+      "win_percentage": 0.0,
+      "strengths": [
+        "Strong bowling attack",
+        "Good all-rounders"
+      ]
+    }
+  },
+  "test": {},
+  "ipl": {
+    "Kolkata Knight Riders": {
+      "matches_played": 5,
+      "matches_won": 2,
+      "win_percentage": 40.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Royal Challengers Bengaluru": {
+      "matches_played": 5,
+      "matches_won": 3,
+      "win_percentage": 60.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Sunrisers Hyderabad": {
+      "matches_played": 5,
+      "matches_won": 1,
+      "win_percentage": 20.0,
+      "strengths": [
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Rajasthan Royals": {
+      "matches_played": 5,
+      "matches_won": 2,
+      "win_percentage": 40.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Mumbai Indians": {
+      "matches_played": 5,
+      "matches_won": 1,
+      "win_percentage": 20.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Chennai Super Kings": {
+      "matches_played": 5,
+      "matches_won": 1,
+      "win_percentage": 20.0,
+      "strengths": [
+        "Strong batting lineup",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Lucknow Super Giants": {
+      "matches_played": 5,
+      "matches_won": 3,
+      "win_percentage": 60.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Delhi Capitals": {
+      "matches_played": 4,
+      "matches_won": 4,
+      "win_percentage": 100.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Punjab Kings": {
+      "matches_played": 4,
+      "matches_won": 3,
+      "win_percentage": 75.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Good all-rounders",
+        "Strong six-hitting ability"
+      ]
+    },
+    "Gujarat Titans": {
+      "matches_played": 5,
+      "matches_won": 4,
+      "win_percentage": 80.0,
+      "strengths": [
+        "High win rate",
+        "Strong batting lineup",
+        "Strong six-hitting ability"
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "lastUpdated": "2025-04-11 14:42:15",
+  "availableData": {
+    "matches": true,
+    "teams": false,
+    "players": false,
+    "series": false,
+    "news": false,
+    "rankings": true,
+    "venues": true
+  },
+  "detailsAvailable": {
+    "teamDetails": false,
+    "playerDetails": false,
+    "venueDetails": true
+  }
+}

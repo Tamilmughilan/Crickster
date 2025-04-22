@@ -1,0 +1,1131 @@
+[
+  {
+    "id": "T20_2025-04-17",
+    "date": "2025-04-17",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Mumbai Indians"
+    ],
+    "venue": "Wankhede Stadium, Mumbai",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Mumbai Indians",
+      "by": {
+        "wickets": 4
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-17",
+    "date": "2025-04-17",
+    "teams": [
+      "Bangladesh",
+      "West Indies"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "West Indies",
+      "by": {
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-17",
+    "date": "2025-04-17",
+    "teams": [
+      "Pakistan",
+      "Thailand"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Pakistan",
+      "by": {
+        "runs": 87
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-16",
+    "date": "2025-04-16",
+    "teams": [
+      "Delhi Capitals",
+      "Rajasthan Royals"
+    ],
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "result": "tie",
+      "eliminator": "Delhi Capitals"
+    }
+  },
+  {
+    "id": "T20_2025-04-16",
+    "date": "2025-04-16",
+    "teams": [
+      "Islamabad United",
+      "Multan Sultans"
+    ],
+    "venue": "Rawalpindi Cricket Stadium",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Islamabad United",
+      "by": {
+        "runs": 47
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-15",
+    "date": "2025-04-15",
+    "teams": [
+      "Punjab Kings",
+      "Kolkata Knight Riders"
+    ],
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Punjab Kings",
+      "by": {
+        "runs": 16
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-15",
+    "date": "2025-04-15",
+    "teams": [
+      "Lahore Qalandars",
+      "Karachi Kings"
+    ],
+    "venue": "National Stadium, Karachi",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Lahore Qalandars",
+      "by": {
+        "runs": 65
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-15",
+    "date": "2025-04-15",
+    "teams": [
+      "Ireland",
+      "Thailand"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Ireland",
+      "by": {
+        "runs": 46
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-15",
+    "date": "2025-04-15",
+    "teams": [
+      "Bangladesh",
+      "Scotland"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Bangladesh",
+      "by": {
+        "runs": 34
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-15",
+    "date": "2025-04-15",
+    "teams": [
+      "Namibia",
+      "Uganda"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Uganda",
+      "by": {
+        "wickets": 5
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-14",
+    "date": "2025-04-14",
+    "teams": [
+      "Lucknow Super Giants",
+      "Chennai Super Kings"
+    ],
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Chennai Super Kings",
+      "by": {
+        "wickets": 5
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-14",
+    "date": "2025-04-14",
+    "teams": [
+      "Islamabad United",
+      "Peshawar Zalmi"
+    ],
+    "venue": "Rawalpindi Cricket Stadium",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Islamabad United",
+      "by": {
+        "runs": 102
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-14",
+    "date": "2025-04-14",
+    "teams": [
+      "Pakistan",
+      "West Indies"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Pakistan",
+      "by": {
+        "runs": 65
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-14",
+    "date": "2025-04-14",
+    "teams": [
+      "Namibia",
+      "Uganda"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Namibia",
+      "by": {
+        "runs": 1
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Rajasthan Royals",
+      "Royal Challengers Bengaluru"
+    ],
+    "venue": "Sawai Mansingh Stadium, Jaipur",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Royal Challengers Bengaluru",
+      "by": {
+        "wickets": 9
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Mumbai Indians",
+      "Delhi Capitals"
+    ],
+    "venue": "Arun Jaitley Stadium, Delhi",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Mumbai Indians",
+      "by": {
+        "runs": 12
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Lahore Qalandars",
+      "Quetta Gladiators"
+    ],
+    "venue": "Rawalpindi Cricket Stadium",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Lahore Qalandars",
+      "by": {
+        "runs": 79
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Scotland",
+      "Thailand"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Scotland",
+      "by": {
+        "runs": 58
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Ireland",
+      "Bangladesh"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Bangladesh",
+      "by": {
+        "wickets": 2
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Hong Kong",
+      "Qatar"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Hong Kong",
+      "by": {
+        "runs": 1
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-13",
+    "date": "2025-04-13",
+    "teams": [
+      "Kuwait",
+      "Nepal"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Kuwait",
+      "by": {
+        "runs": 3
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Gujarat Titans",
+      "Lucknow Super Giants"
+    ],
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Lucknow Super Giants",
+      "by": {
+        "wickets": 6
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Punjab Kings",
+      "Sunrisers Hyderabad"
+    ],
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Sunrisers Hyderabad",
+      "by": {
+        "wickets": 8
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Quetta Gladiators",
+      "Peshawar Zalmi"
+    ],
+    "venue": "Rawalpindi Cricket Stadium",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Quetta Gladiators",
+      "by": {
+        "runs": 80
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Multan Sultans",
+      "Karachi Kings"
+    ],
+    "venue": "National Stadium, Karachi",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Karachi Kings",
+      "by": {
+        "wickets": 4
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Cook Islands",
+      "Indonesia"
+    ],
+    "venue": "Udayana Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Kartini Cup",
+    "teamType": "international",
+    "result": {
+      "winner": "Indonesia",
+      "by": {
+        "wickets": 3
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Qatar",
+      "Kuwait"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Kuwait",
+      "by": {
+        "wickets": 6
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Hong Kong",
+      "Nepal"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "result": "no result"
+    }
+  },
+  {
+    "id": "T20_2025-04-12",
+    "date": "2025-04-12",
+    "teams": [
+      "Namibia",
+      "Uganda"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Namibia",
+      "by": {
+        "runs": 21
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "Chennai Super Kings",
+      "Kolkata Knight Riders"
+    ],
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Kolkata Knight Riders",
+      "by": {
+        "wickets": 8
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "Lahore Qalandars",
+      "Islamabad United"
+    ],
+    "venue": "Rawalpindi Cricket Stadium",
+    "matchType": "T20",
+    "eventName": "Pakistan Super League",
+    "teamType": "club",
+    "result": {
+      "winner": "Islamabad United",
+      "by": {
+        "wickets": 8
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "Scotland",
+      "Pakistan"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Pakistan",
+      "by": {
+        "wickets": 6
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "West Indies",
+      "Ireland"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "West Indies",
+      "by": {
+        "runs": 6
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "Cook Islands",
+      "Philippines"
+    ],
+    "venue": "Udayana Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Kartini Cup",
+    "teamType": "international",
+    "result": {
+      "winner": "Cook Islands",
+      "by": {
+        "runs": 38
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-11",
+    "date": "2025-04-11",
+    "teams": [
+      "Namibia",
+      "Uganda"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Namibia",
+      "by": {
+        "runs": 23
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-10",
+    "date": "2025-04-10",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Delhi Capitals"
+    ],
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Delhi Capitals",
+      "by": {
+        "wickets": 6
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-10",
+    "date": "2025-04-10",
+    "teams": [
+      "Bangladesh",
+      "Thailand"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Bangladesh",
+      "by": {
+        "runs": 178
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-10",
+    "date": "2025-04-10",
+    "teams": [
+      "Indonesia",
+      "Philippines"
+    ],
+    "venue": "Udayana Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Kartini Cup",
+    "teamType": "international",
+    "result": {
+      "winner": "Indonesia",
+      "by": {
+        "runs": 76
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-10",
+    "date": "2025-04-10",
+    "teams": [
+      "Kuwait",
+      "Nepal"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 6
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-10",
+    "date": "2025-04-10",
+    "teams": [
+      "Hong Kong",
+      "Qatar"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Hong Kong",
+      "by": {
+        "runs": 68
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Gujarat Titans",
+      "Rajasthan Royals"
+    ],
+    "venue": "Narendra Modi Stadium, Ahmedabad",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Gujarat Titans",
+      "by": {
+        "runs": 58
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Pakistan",
+      "Ireland"
+    ],
+    "venue": "Gaddafi Stadium, Lahore",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Pakistan",
+      "by": {
+        "runs": 38
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Scotland",
+      "West Indies"
+    ],
+    "venue": "Lahore City Cricket Association Ground",
+    "matchType": "ODI",
+    "eventName": "ICC Women's World Cup Qualifier",
+    "teamType": "international",
+    "result": {
+      "winner": "Scotland",
+      "by": {
+        "runs": 11
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Cook Islands",
+      "Indonesia"
+    ],
+    "venue": "Udayana Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Kartini Cup",
+    "teamType": "international",
+    "result": {
+      "winner": "Indonesia",
+      "by": {
+        "wickets": 8
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Portugal",
+      "Norway"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Portugal",
+      "by": {
+        "runs": 54
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Norway",
+      "Portugal"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway Women tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Portugal",
+      "by": {
+        "wickets": 9
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Qatar",
+      "Nepal"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Nepal",
+      "by": {
+        "wickets": 8
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Hong Kong",
+      "Kuwait"
+    ],
+    "venue": "Mission Road Ground, Mong Kok, Hong Kong",
+    "matchType": "T20",
+    "eventName": "Quadrangular Twenty20 Series (Hong Kong)",
+    "teamType": "international",
+    "result": {
+      "winner": "Kuwait",
+      "by": {
+        "wickets": 4
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-09",
+    "date": "2025-04-09",
+    "teams": [
+      "Uganda",
+      "Namibia"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Uganda",
+      "by": {
+        "runs": 5
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-08",
+    "date": "2025-04-08",
+    "teams": [
+      "Lucknow Super Giants",
+      "Kolkata Knight Riders"
+    ],
+    "venue": "Eden Gardens, Kolkata",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Lucknow Super Giants",
+      "by": {
+        "runs": 4
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-08",
+    "date": "2025-04-08",
+    "teams": [
+      "Punjab Kings",
+      "Chennai Super Kings"
+    ],
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Punjab Kings",
+      "by": {
+        "runs": 18
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-08",
+    "date": "2025-04-08",
+    "teams": [
+      "Norway",
+      "Portugal"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Portugal",
+      "by": {
+        "wickets": 4
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-08",
+    "date": "2025-04-08",
+    "teams": [
+      "Portugal",
+      "Norway"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway Women tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Norway",
+      "by": {
+        "wickets": 5
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-08",
+    "date": "2025-04-08",
+    "teams": [
+      "Uganda",
+      "Namibia"
+    ],
+    "venue": "High Performance Oval, Windhoek",
+    "matchType": "T20",
+    "eventName": "Uganda Women tour of Namibia",
+    "teamType": "international",
+    "result": {
+      "winner": "Uganda",
+      "by": {
+        "runs": 2
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-07",
+    "date": "2025-04-07",
+    "teams": [
+      "Royal Challengers Bengaluru",
+      "Mumbai Indians"
+    ],
+    "venue": "Wankhede Stadium, Mumbai",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Royal Challengers Bengaluru",
+      "by": {
+        "runs": 12
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-07",
+    "date": "2025-04-07",
+    "teams": [
+      "Norway",
+      "Portugal"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Norway",
+      "by": {
+        "runs": 39
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-07",
+    "date": "2025-04-07",
+    "teams": [
+      "Portugal",
+      "Norway"
+    ],
+    "venue": "Santarem Cricket Ground",
+    "matchType": "T20",
+    "eventName": "Norway Women tour of Portugal",
+    "teamType": "international",
+    "result": {
+      "winner": "Portugal",
+      "by": {
+        "runs": 16
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-06",
+    "date": "2025-04-06",
+    "teams": [
+      "Sunrisers Hyderabad",
+      "Gujarat Titans"
+    ],
+    "venue": "Rajiv Gandhi International Stadium, Uppal, Hyderabad",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Gujarat Titans",
+      "by": {
+        "wickets": 7
+      }
+    }
+  },
+  {
+    "id": "ODI_2025-04-05",
+    "date": "2025-04-05",
+    "teams": [
+      "New Zealand",
+      "Pakistan"
+    ],
+    "venue": "Bay Oval, Mount Maunganui",
+    "matchType": "ODI",
+    "eventName": "Pakistan tour of New Zealand",
+    "teamType": "international",
+    "result": {
+      "winner": "New Zealand",
+      "by": {
+        "runs": 43
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-05",
+    "date": "2025-04-05",
+    "teams": [
+      "Delhi Capitals",
+      "Chennai Super Kings"
+    ],
+    "venue": "MA Chidambaram Stadium, Chepauk, Chennai",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Delhi Capitals",
+      "by": {
+        "runs": 25
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-05",
+    "date": "2025-04-05",
+    "teams": [
+      "Rajasthan Royals",
+      "Punjab Kings"
+    ],
+    "venue": "Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Rajasthan Royals",
+      "by": {
+        "runs": 50
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-04",
+    "date": "2025-04-04",
+    "teams": [
+      "Lucknow Super Giants",
+      "Mumbai Indians"
+    ],
+    "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Lucknow Super Giants",
+      "by": {
+        "runs": 12
+      }
+    }
+  },
+  {
+    "id": "T20_2025-04-03",
+    "date": "2025-04-03",
+    "teams": [
+      "Kolkata Knight Riders",
+      "Sunrisers Hyderabad"
+    ],
+    "venue": "Eden Gardens, Kolkata",
+    "matchType": "T20",
+    "eventName": "Indian Premier League",
+    "teamType": "club",
+    "result": {
+      "winner": "Kolkata Knight Riders",
+      "by": {
+        "runs": 80
+      }
+    }
+  }
+]
